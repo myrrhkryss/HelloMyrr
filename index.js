@@ -1,3 +1,3 @@
 exports.mk = function(req, res) {
-  res.send("Hello Wooooorld!");
+  res.send("Hello Fckin Wooooorld!");
 };
